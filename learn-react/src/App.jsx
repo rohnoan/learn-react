@@ -1,8 +1,10 @@
+import GS from "./1GettingStarted/GS"
+
 
 function App() {
   return (
     <>
-    hi
+    <GS/>
     </>
   )
 }
